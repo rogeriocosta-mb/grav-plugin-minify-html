@@ -1,3 +1,9 @@
+# v1.0.9
+## 07/25/2018
+
+1. [](#improved)
+   * Do not use frozen content as source
+
 # v1.0.8
 ## 04/16/2018
 
