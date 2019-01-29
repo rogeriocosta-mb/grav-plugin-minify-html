@@ -1,3 +1,9 @@
+# v1.1.0
+## 01/29/2019
+
+1. [](#improved)
+   * Update compressor to version 1.4
+
 # v1.0.9
 ## 07/25/2018
 
