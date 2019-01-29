@@ -2,7 +2,6 @@
 namespace Grav\Plugin;
 
 use Grav\Common\Plugin;
-use Grav\Plugin\MinifyHtml\Compressor;
 use WyriHaximus\HtmlCompress\Factory;
 
 /**
